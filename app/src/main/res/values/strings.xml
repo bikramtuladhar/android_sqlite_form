@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Form with sqlite</string>
+    <string name="full_name">full name</string>
+    <string name="address">address</string>
+    <string name="title_activity_form_preview">title_activity_form_preview</string>
+    <string name="submit">submit</string>
+    <string name="back">back</string>
+</resources>
